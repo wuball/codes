@@ -1,11 +1,11 @@
-# 自动快速挂学习    
+### 自动快速挂学时    
        
 成都市中小学教师继续教育网 [www.cdjxjy.com](http://www.cdjxjy.com)      
 快速完成网上学习时长，秒加学时，自动添加学习记录    
 代码开源地址 [github.com/wuball/codes/tree/master/chrome/cdjxjy](https://github.com/wuball/codes/tree/master/chrome/cdjxjy)        
 
 
-### 插件版-使用步骤
+#### 插件版-使用步骤
 
 1. [点击下载](https://github.com/wuball/codes/raw/master/chrome/cdjxjy/key/cdjxjy.crx)、[百度网盘备用](http://pan.baidu.com/s/1bQKwKA)
 2. 下载 crx 文件，约 66K 大小
@@ -13,7 +13,7 @@
 4. 按正常操作打开教育网，视频播放页面的“退出学习”旁边会出现一个“快速学习”按钮
 5. 点击即可，自动添加学习记录，几秒即可弹出成功获取学时。
 
-### 代码版-使用步骤
+#### 代码版-使用步骤
 
 1. 使用360浏览器极速模式或者chrome（谷歌浏览器）
 2. 打开课程学习（视频播放页面）
