@@ -1,7 +1,7 @@
 # 自动快速挂学习    
        
 成都市中小学教师继续教育网 [www.cdjxjy.com](http://www.cdjxjy.com)      
-快速完成网上学习时长，秒加学时，自动添加学习记录
+快速完成网上学习时长，秒加学时，自动添加学习记录    
 代码开源地址 [github.com/wuball/codes/tree/master/chrome/cdjxjy](https://github.com/wuball/codes/tree/master/chrome/cdjxjy)        
 
 
